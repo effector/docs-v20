@@ -43,6 +43,16 @@ module.exports = {
           label: 'GitHub',
           position: 'right',
         },
+        {
+          href: "https://v21.effector.dev",
+          label: 'v21',
+          position: 'right',
+        },
+        {
+          href: "https://effector.dev",
+          label: 'v22',
+          position: 'right',
+        },
       ],
     },
     footer: {
