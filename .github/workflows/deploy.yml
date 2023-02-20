@@ -9,7 +9,7 @@ permissions:
   contents: write
 
 jobs:
-  news:
+  docs:
     runs-on: ubuntu-latest
     steps:
       - name: 🛎️ Checkout
