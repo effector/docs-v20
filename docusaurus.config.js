@@ -53,6 +53,11 @@ module.exports = {
           label: 'v22',
           position: 'right',
         },
+        {
+          href: "https://effector.dev",
+          label: 'v23',
+          position: 'right',
+        },
       ],
     },
     footer: {
