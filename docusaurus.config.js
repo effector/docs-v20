@@ -49,7 +49,7 @@ module.exports = {
           position: 'right',
         },
         {
-          href: "https://effector.dev",
+          href: "https://v22.effector.dev",
           label: 'v22',
           position: 'right',
         },
